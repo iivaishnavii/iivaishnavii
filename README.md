@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @iivaishnavii
-- 💞️ I’m looking to collaborate on open-source-projects
+- 💻 Software Engineer at Pulse-Secure
+- 🎯 I’m looking to collaborate on open-source-projects
 - 📫 How to reach me vaishnavi94.ramesh@gmail.com
 
 <!---
